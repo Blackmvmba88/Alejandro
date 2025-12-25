@@ -1,0 +1,8 @@
+{
+  "name": "Compañero de Recuerdos",
+  "description": "Un amigo virtual con memoria activa para personas de la tercera edad. Aprende y recuerda datos importantes para una charla más humana.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
